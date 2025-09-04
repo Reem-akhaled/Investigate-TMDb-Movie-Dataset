@@ -36,8 +36,8 @@ _**Key columns include:**_
 
 ### 📑 Project Files
 
-**notebooks/tmdb-analysis.ipynb** → Jupyter Notebook with full data analysis and visualizations
-**reports/tmdb-analysis.html** → Exported HTML version of the notebook for quick viewing
-**dataset/tmdb-movies.csv** → The raw dataset used for analysis
-** README.md** → Project description and documentation
+- **Notebooks/tmdb-analysis.ipynb** → Jupyter Notebook with full data analysis and visualizations
+- **Reports/tmdb-analysis.html** → Exported HTML version of the notebook for quick viewing
+- **Dataset/tmdb-movies.csv** → The raw dataset used for analysis
+- **README.md** → Project description and documentation
 
