@@ -41,9 +41,3 @@ _**Key columns include:**_
 **dataset/tmdb-movies.csv** → The raw dataset used for analysis
 ** README.md** → Project description and documentation
 
-### 🔎 How to View the Analysis
-
-_You can view the analysis directly in the notebook or open the HTML report:_
-
-- [Notebook: tmdb-analysis.ipynb](Notebooks/tmdb-analysis.ipynb) 
-- [HTML Report: tmdb-analysis.html](Reports/tmdb-analysis.html)
