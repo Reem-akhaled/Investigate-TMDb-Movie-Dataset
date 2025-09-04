@@ -45,5 +45,5 @@ _**Key columns include:**_
 
 _You can view the analysis directly in the notebook or open the HTML report:_
 
-- [Notebook: tmdb-analysis.ipynb](notebooks/tmdb-analysis.ipynb) 
-- [HTML Report: tmdb-analysis.html](reports/tmdb-analysis.html)
+- [Notebook: tmdb-analysis.ipynb](Notebooks/tmdb-analysis.ipynb) 
+- [HTML Report: tmdb-analysis.html](Reports/tmdb-analysis.html)
